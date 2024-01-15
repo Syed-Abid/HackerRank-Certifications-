@@ -1,4 +1,4 @@
-# HackerRank Certifications 
+# HackerRank Certifications <a href="https://iconscout.com/icons/hackerrank" class="text-underline font-size-sm" target="_blank">Hackerrank</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
 This repository shows my expertise and excellency in the data analysis skills.
 
 ## SQL Certification
